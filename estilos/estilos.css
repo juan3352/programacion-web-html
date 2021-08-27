@@ -2,6 +2,8 @@
   background: #4753bb;
   border: 1px solid #999999;
   padding: 20px;
+  margin: 1rem;
+  background-image: url(https://media.istockphoto.com/vectors/viva-mexico-quote-web-banner-for-holiday-event-vector-id945203962?k=6&m=945203962&s=170667a&w=0&h=zAfVq49-8mNqpk--KjZKYQHuwNyZOMkKMiiB86AxDnU=);
 }
 #menu {
   background: #3b83bd;
@@ -13,5 +15,14 @@
   padding: 5px;
   font: bold 14px verdana, sans-serif;
 }
-#p {
+P {
+  color: blue;
+  font-size: 12px;
+  font-family: Courier;
+  border: 2px;
+  border-color: blue;
+  border-style: solid;
+
+  width: 100px;
+  height: 100px;
 }
